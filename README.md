@@ -5,4 +5,5 @@ Rainfall Prediction is the application to predict the amount of rainfall over a 
 
 Linear Regression is used to predict the amount of rainfall. We used Austin, Texas public weather dataset which is available on Kaggle. It can be downloaded from this [link](https://www.kaggle.com/grubenm/austin-weather)
 
-## EDA          Training          Prediction          Visualization
+## 1.EDA          2.Training          3.Prediction          4.Visualization
+All the process is given in the [notebook](https://github.com/Shahrullo/Rainfall-Prediction/blob/main/Rainfall%20Prediction.ipynb).
